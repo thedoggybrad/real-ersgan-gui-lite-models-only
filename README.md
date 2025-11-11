@@ -1,6 +1,6 @@
 # Real-ESRGAN GUI (Lite Models Only)
 
-A cross-platform GUI for image upscaler [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) with additional features that uses only lightweight models. Based on [Real-ESRGAN GUI](https://github.com/TransparentLC/realesrgan-gui) Inspired by [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe).
+A cross-platform GUI for image upscaler [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) with additional features that uses only lightweight models. Based on [Real-ESRGAN GUI](https://github.com/TransparentLC/realesrgan-gui) which is inspired by [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe).
 
 <picture>
     <source media="(prefers-color-scheme:dark)" srcset="https://user-images.githubusercontent.com/47057319/219046059-6611f26b-c558-436e-a1d2-9576d355c2c6.png">
